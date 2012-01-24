@@ -1,0 +1,18 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=SublimeText 2 Projects
+Comment=Allows creation and launching of projects for the SublimeText 2 editor
+Type=Service
+ServiceTypes=Plasma/Applet
+Icon=images/icon.png
+X-Plasma-API=python
+X-Plasma-MainScript=code/main.py
+X-KDE-PluginInfo-Author=Ian Beaver
+X-KDE-PluginInfo-Email=ibeaver@nextit.com
+X-KDE-PluginInfo-Name=st2-projects
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=http://plasma.kde.org/
+X-KDE-PluginInfo-Category=Application Launchers
+X-KDE-PluginInfo-Depends=PyKDE/PyQt
+X-KDE-PluginInfo-License=BSD
+X-KDE-PluginInfo-EnabledByDefault=true
